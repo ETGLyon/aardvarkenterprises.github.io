@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+	<style>
+
+	</style>
+  </head>
+  
+<body>
+<h1 class="container text-center-left"> Scottish Travel: A Guide</h1>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">&nbsp&nbsp</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="./index.html">Home</a></li>
+      <li><a href="timetables.html">Timetables</a></li>
+      <li><a href="cautions.html">Cautions</a></li>
+    </ul>
+  </div>
+</nav>
+<h3 id="public" class="container"> Public Transport</h1>
+<h4>Buses</h4>
+</body>
+</html>
